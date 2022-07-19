@@ -4,6 +4,7 @@
   "description": "Aprendendo nodejs",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "startdev": "nodemon --inspect app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
